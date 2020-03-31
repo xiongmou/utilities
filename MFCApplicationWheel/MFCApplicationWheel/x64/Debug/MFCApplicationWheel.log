@@ -1,0 +1,24 @@
+﻿生成启动时间为 2020/3/31 20:04:42。
+     1>项目“E:\mySVN\TestProgram\MFCApplicationWheel\MFCApplicationWheel\MFCApplicationWheel.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MFCApplicationWheel.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt MFCApplicationWheel.cpp MFCApplicationWheelDlg.cpp WheelZoom.cpp
+         MFCApplicationWheel.cpp
+     1>D:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         WheelZoom.cpp
+         MFCApplicationWheelDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mySVN\TestProgram\MFCApplicationWheel\x64\Debug\MFCApplicationWheel.exe" /INCREMENTAL /NOLOGO opencv_world310.lib opencv_world310d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\mySVN\TestProgram\MFCApplicationWheel\x64\Debug\MFCApplicationWheel.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mySVN\TestProgram\MFCApplicationWheel\x64\Debug\MFCApplicationWheel.lib" /MACHINE:X64 x64\Debug\MFCApplicationWheel.res
+         x64\Debug\MFCApplicationWheel.obj
+         x64\Debug\MFCApplicationWheelDlg.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\WheelZoom.obj
+         MFCApplicationWheel.vcxproj -> E:\mySVN\TestProgram\MFCApplicationWheel\x64\Debug\MFCApplicationWheel.exe
+     1>已完成生成项目“E:\mySVN\TestProgram\MFCApplicationWheel\MFCApplicationWheel\MFCApplicationWheel.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.61
